@@ -1,16 +1,17 @@
 
 This is a reading list for those interested in studying AI in mobile apps.
 
-**AI:**
+**Privacy:**
 
-- [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf), IEEE S&P, 2016
+- [Automated Analysis of Privacy Requirements for Mobile Apps](https://shomir.net/pdf/publications/uppp_ndss_2017.pdf), AAAI, 2016
 
-- [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf), USENIX Security, 2016
+- [Natural Language Processing for Mobile App Privacy Compliance](http://ceur-ws.org/Vol-2335/1st_PAL_paper_6.pdf), ceur-ws, 2019
 
-- [SmartAuth: User-Centered Authorization for the Internet of Things USENIX Security](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf), 2017
+- [MAPS: Scaling Privacy Compliance Analysis to a Million Apps](https://content.sciendo.com/view/journals/popets/2019/3/article-p66.xml), Sciendo, 2019
 
-- [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.834/papers/ccs18.pdf), CCS, 2018
+- [Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-harkous.pdf), Usenix Security, 2018
 
+- [50 Ways to Leak Your Data: An Exploration of Apps’ Circumvention of the Android Permissions System](https://www.usenix.org/system/files/sec19-reardon.pdf), USENIX Security, 2019
 
 **Characterization**
 - [A First Look at Deep Learning Apps on Smartphones ](https://arxiv.org/pdf/1812.05448.pdf), [WWW'19]
