@@ -13,6 +13,8 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [50 Ways to Leak Your Data: An Exploration of Apps’ Circumvention of the Android Permissions System](https://www.usenix.org/system/files/sec19-reardon.pdf), USENIX Security, 2019
 
+- [We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR's Impact on Web Privacy](https://arxiv.org/pdf/1808.05096.pdf), NDSS, 2019
+
 **Characterization**
 - [A First Look at Deep Learning Apps on Smartphones ](https://arxiv.org/pdf/1812.05448.pdf), [WWW'19]
 
@@ -22,12 +24,11 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [Machine Learning at Facebook:Understanding Inference at the Edge](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge-v2.pdf?), HPCA, 2019
 
-- [IoTRiskAnalyzer: A Probabilistic Model Checking
-Based Framework for Formal Risk Analytics
-of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7906503), IEEE Access, 2017
+- [IoTRiskAnalyzer: A Probabilistic Model Checking Based Framework for Formal Risk Analytics of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7906503), IEEE Access, 2017
 
 - [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf), IEEE Access, 2018
 
+- [An Empirical Study towards Characterizing Deep Learning Development and Deployment across Different Frameworks and Platforms](https://arxiv.org/pdf/1909.06727.pdf), arXiv, 2019
 
 
 **Surveys:**
