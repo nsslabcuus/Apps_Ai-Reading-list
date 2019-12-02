@@ -15,7 +15,7 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR's Impact on Web Privacy](https://arxiv.org/pdf/1808.05096.pdf), NDSS, 2019
 
-**Characterization**
+**DL Characterization**
 - [A First Look at Deep Learning Apps on Smartphones ](https://arxiv.org/pdf/1812.05448.pdf), [WWW'19]
 
 - [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/pdf/1804.03230.pdf), ECCV, 2018
@@ -30,10 +30,14 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [An Empirical Study towards Characterizing Deep Learning Development and Deployment across Different Frameworks and Platforms](https://arxiv.org/pdf/1909.06727.pdf), arXiv, 2019
 
+- [Characterizing the Internet Host Population Using Deep Learning: A Universal and Lightweight Numerical Embedding](http://delivery.acm.org/10.1145/3280000/3278545/p133-Sarabi.pdf?ip=198.21.196.63&id=3278545&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575240591_1889ab281d70c94b6bb6b49bb6caa507), IMC, 2018
 
 **Surveys:**
 
 - [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT)](https://arxiv.org/pdf/1807.11023.pdf), Security arXiv, 2017
 
-- [Towards Security and Privacy for Multi-User
-Augmented Reality: Foundations with End Users](https://ar-sec.cs.washington.edu/files/arsec-lebeck-sp18.pdf), IEEE S&P, 2018
+- [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282), arXiv, 2017
+
+- [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023), arXiv, 2017
+
+- [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107), arXiv, 2017
