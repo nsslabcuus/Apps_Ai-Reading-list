@@ -32,6 +32,12 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [Characterizing the Internet Host Population Using Deep Learning: A Universal and Lightweight Numerical Embedding](http://delivery.acm.org/10.1145/3280000/3278545/p133-Sarabi.pdf?ip=198.21.196.63&id=3278545&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575240591_1889ab281d70c94b6bb6b49bb6caa507), IMC, 2018
 
+- [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf), ICCV, 2019
+
+- [Characterizing the Deep Neural Networks Inference Performance of Mobile Applications](https://arxiv.org/pdf/1909.04783),arXiv, 2019
+
+-
+
 **Surveys:**
 
 - [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT)](https://arxiv.org/pdf/1807.11023.pdf), Security arXiv, 2017
