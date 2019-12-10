@@ -36,7 +36,7 @@ This is a reading list for those interested in studying AI in mobile apps.
 
 - [Characterizing the Deep Neural Networks Inference Performance of Mobile Applications](https://arxiv.org/pdf/1909.04783),arXiv, 2019
 
--
+
 
 **Surveys:**
 
@@ -47,3 +47,7 @@ This is a reading list for those interested in studying AI in mobile apps.
 - [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023), arXiv, 2017
 
 - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107), arXiv, 2017
+
+**Adversarial Examples Reading List:**
+
+- [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), arXiv, 2017
